@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink"><description><title-info><author><last-name>FBReader</last-name></author> <book-title>Про FBReaderJ</book-title> <lang>uk</lang></title-info></description>
+<body>
+<title><p>Про FBReader &FBReaderVersion;</p></title>
+<p>FBReader це читалка електронних книг. FBReader підтримує формати файлів <code>ePub</code> і <code>fb2</code>. Будь-ласка відзначте, що DRM-захищені книги не підтримуються. Якщо ви маєте файли підтримуваних форматів, просто покладіть їх в теку <code>Books</code> на карті пам'яті. Книги будуть доступні в <a l:href="fbreader-action:library">бібліотеці</a>.</p>
+<p>Перегортати сторінки можна горизонтальним жестом або за допомогою клавіш керування гучністю.</p>
+<p><a l:href="fbreader-action:preferences">Діалог керування</a> дозволяє Вам змінювати FBReader на Ваш смак: кольори, шрифти, теки, параметри перегортання сторінок, etc.</p>
+<p><a l:href="fbreader-action:menu">Меню FBReader</a> дозволяє Вам переглядати бібліотеки та керувати програмою. Якщо Ваш пристрій не має клавіші <code>Menu</code>, торкніться середини нижньої частини екрану щоб викликати меню.</p>
+<p>Насолоджуйтесь!</p>
+</body>
+</FictionBook>

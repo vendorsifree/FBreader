@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink"><description><title-info><author><last-name>FBReader</last-name></author> <book-title>Sobre FBReader</book-title> <lang>pt</lang></title-info></description>
+<body>
+<title><p>Sobre FBReader &FBReaderVersion;</p></title>
+<p>FBReader é um leitor de e-book. FBReader suporta formatos de arquivos <code>ePub</code> e <code>fb2</code>. Por favor observe que livros protegidos por DRM não são suportados. Se você tiver qualquer arquivo em formatos suportados, apenas coloque-os dentro do diretório de <code>Livros</code> sobre o cartão de memória. Os livros estarão disponíveis na <a l:href="fbreader-action:library">biblioteca</a>.</p>
+<p>Para virar as páginas, deslize a tela horizontalmente ou use as teclas de volume do hardware.</p>
+<p><a l:href="fbreader-action:preferences">Diálogo Preferências</a> permite que você personalize o FBReader ao seu gosto: cores, fontes, diretórios diferentes, opções de virar a página, etc</p>
+<p><a l:href="fbreader-action:menu">Menu de FBReader</a> permite que você navegue através de bibliotecas e controlar a aplicação. Se o dispositivo não tem botão de <code>Menu</code> de hardware, toque a parte inferior central da tela para executar menu.</p>
+<p>Divirta-se!</p>
+</body>
+</FictionBook>

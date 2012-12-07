@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink"><description><title-info><author><last-name>maryhit.com</last-name></author> <book-title>Despre FBReaderJ</book-title> <lang>ro</lang></title-info></description>
+<body>
+<title><p>Despre FBReader &FBReaderVersion;</p></title>
+<p>FBReader este o aplicatie pentru citit carti electronice. FBReader este compatibil cu urmatoarele formate de fisiere: <code>ePub</code> si <code>fb2</code>. Cartile protejate cu DRM nu sunt suportate. Daca aveti carti in formatele suportate, puteti sa le puneti in directorul <code>Books</code> de pe cardul de memorie, iar apoi cartile vor putea fi gasite in <a l:href="fbreader-action://library">librarie</a>.</p>
+<p>Pentru a da pagina trageti cu degetul orizontal pe ecran, sau folositi tastele de volum.</p>
+<p>Butonul <a l:href="fbreader-action://preferences">Preferinte Dialog</a> va da voie sa personalizati aplicatia  FBReader pe gustul dumneavoastra: puteti schimba culorile, fonturile, diverse directoare, cum sa dati pagina, etc.</p>
+<p><a l:href="fbreader-action://menu">Meniul FBReader</a> va da voie sa navigati prin librarii si sa controlali aplicatia. Daca dispozitivul dumneavoastra nu are un buton de <code>Meniu</code>, apasati pe partea centrala inferioara a ecranului pentru a intra in meniu.</p>
+<p>Savurati aplicatia!</p>
+</body>
+</FictionBook>

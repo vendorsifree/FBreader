@@ -1,0 +1,129 @@
+org.amse.ys.zip.DeflatingDecompressor
+org.amse.ys.zip.DeflatingDecompressor: int startInflating()
+org.amse.ys.zip.DeflatingDecompressor: void endInflating(int)
+org.amse.ys.zip.DeflatingDecompressor: long inflate(int,byte[],int,int,byte[])
+org.geometerplus.android.fbreader.BookmarkEditActivity
+org.geometerplus.android.fbreader.BookmarksActivity
+org.geometerplus.android.fbreader.CancelActivity
+org.geometerplus.android.fbreader.FBReader
+org.geometerplus.android.fbreader.FBReaderApplication
+org.geometerplus.android.fbreader.PopupWindow$Location: org.geometerplus.android.fbreader.PopupWindow$Location[] values()
+org.geometerplus.android.fbreader.PopupWindow$Location: org.geometerplus.android.fbreader.PopupWindow$Location valueOf(java.lang.String)
+org.geometerplus.android.fbreader.TOCActivity
+org.geometerplus.android.fbreader.api.ApiObject
+org.geometerplus.android.fbreader.api.ApiObject: android.os.Parcelable$Creator CREATOR
+org.geometerplus.android.fbreader.api.ApiObject$Boolean
+org.geometerplus.android.fbreader.api.ApiObject$Date
+org.geometerplus.android.fbreader.api.ApiObject$Error
+org.geometerplus.android.fbreader.api.ApiObject$Integer
+org.geometerplus.android.fbreader.api.ApiObject$Long
+org.geometerplus.android.fbreader.api.ApiObject$String
+org.geometerplus.android.fbreader.api.ApiObject$Void
+org.geometerplus.android.fbreader.api.ApiService
+org.geometerplus.android.fbreader.api.PluginApi$ActionInfo
+org.geometerplus.android.fbreader.api.PluginApi$ActionInfo: android.os.Parcelable$Creator CREATOR
+org.geometerplus.android.fbreader.api.PluginApi$MenuActionInfo
+org.geometerplus.android.fbreader.api.PluginApi$PluginInfo
+org.geometerplus.android.fbreader.api.TextPosition
+org.geometerplus.android.fbreader.api.TextPosition: android.os.Parcelable$Creator CREATOR
+org.geometerplus.android.fbreader.crash.FixBooksDirectoryActivity
+org.geometerplus.android.fbreader.crash.MissingNativeLibraryActivity
+org.geometerplus.android.fbreader.error.BookReadingErrorActivity
+org.geometerplus.android.fbreader.image.ImageViewActivity
+org.geometerplus.android.fbreader.library.BookInfoActivity
+org.geometerplus.android.fbreader.library.KillerCallback
+org.geometerplus.android.fbreader.library.LibraryActivity
+org.geometerplus.android.fbreader.library.LibrarySearchActivity
+org.geometerplus.android.fbreader.libraryService.LibraryService
+org.geometerplus.android.fbreader.network.AddCatalogMenuActivity
+org.geometerplus.android.fbreader.network.AddCustomCatalogActivity
+org.geometerplus.android.fbreader.network.AuthenticationActivity
+org.geometerplus.android.fbreader.network.AuthorizationMenuActivity
+org.geometerplus.android.fbreader.network.BookDownloader
+org.geometerplus.android.fbreader.network.BookDownloaderService
+org.geometerplus.android.fbreader.network.BuyBooksActivity
+org.geometerplus.android.fbreader.network.BuyBooksActivity$AuthorizationState: org.geometerplus.android.fbreader.network.BuyBooksActivity$AuthorizationState[] values()
+org.geometerplus.android.fbreader.network.BuyBooksActivity$AuthorizationState: org.geometerplus.android.fbreader.network.BuyBooksActivity$AuthorizationState valueOf(java.lang.String)
+org.geometerplus.android.fbreader.network.ListenerCallback
+org.geometerplus.android.fbreader.network.NetworkBookInfoActivity
+org.geometerplus.android.fbreader.network.NetworkLibraryActivity
+org.geometerplus.android.fbreader.network.NetworkLibraryPrimaryActivity
+org.geometerplus.android.fbreader.network.NetworkLibrarySecondaryActivity
+org.geometerplus.android.fbreader.network.NetworkSearchActivity
+org.geometerplus.android.fbreader.network.TopupMenuActivity
+org.geometerplus.android.fbreader.preferences.EditBookInfoActivity
+org.geometerplus.android.fbreader.preferences.PreferenceActivity
+org.geometerplus.android.fbreader.tips.TipsActivity
+org.geometerplus.android.fbreader.tree.TreeActivity
+org.geometerplus.fbreader.fbreader.FBReaderApp$CancelActionType: org.geometerplus.fbreader.fbreader.FBReaderApp$CancelActionType[] values()
+org.geometerplus.fbreader.fbreader.FBReaderApp$CancelActionType: org.geometerplus.fbreader.fbreader.FBReaderApp$CancelActionType valueOf(java.lang.String)
+org.geometerplus.fbreader.fbreader.FBReaderApp$ImageTappingAction: org.geometerplus.fbreader.fbreader.FBReaderApp$ImageTappingAction[] values()
+org.geometerplus.fbreader.fbreader.FBReaderApp$ImageTappingAction: org.geometerplus.fbreader.fbreader.FBReaderApp$ImageTappingAction valueOf(java.lang.String)
+org.geometerplus.fbreader.fbreader.FBReaderApp$WordTappingAction: org.geometerplus.fbreader.fbreader.FBReaderApp$WordTappingAction[] values()
+org.geometerplus.fbreader.fbreader.FBReaderApp$WordTappingAction: org.geometerplus.fbreader.fbreader.FBReaderApp$WordTappingAction valueOf(java.lang.String)
+org.geometerplus.fbreader.fbreader.ScrollingPreferences$FingerScrolling: org.geometerplus.fbreader.fbreader.ScrollingPreferences$FingerScrolling[] values()
+org.geometerplus.fbreader.fbreader.ScrollingPreferences$FingerScrolling: org.geometerplus.fbreader.fbreader.ScrollingPreferences$FingerScrolling valueOf(java.lang.String)
+org.geometerplus.fbreader.fbreader.TapZoneMap$Tap: org.geometerplus.fbreader.fbreader.TapZoneMap$Tap[] values()
+org.geometerplus.fbreader.fbreader.TapZoneMap$Tap: org.geometerplus.fbreader.fbreader.TapZoneMap$Tap valueOf(java.lang.String)
+org.geometerplus.fbreader.formats.FormatPlugin$Type: org.geometerplus.fbreader.formats.FormatPlugin$Type[] values()
+org.geometerplus.fbreader.formats.FormatPlugin$Type: org.geometerplus.fbreader.formats.FormatPlugin$Type valueOf(java.lang.String)
+org.geometerplus.fbreader.formats.NativeFormatPlugin
+org.geometerplus.fbreader.formats.NativeFormatPlugin: boolean readMetaInfoNative(org.geometerplus.fbreader.library.Book)
+org.geometerplus.fbreader.formats.NativeFormatPlugin: void detectLanguageAndEncoding(org.geometerplus.fbreader.library.Book)
+org.geometerplus.fbreader.formats.NativeFormatPlugin: boolean readModelNative(org.geometerplus.fbreader.bookmodel.BookModel)
+org.geometerplus.fbreader.formats.NativeFormatPlugin: void readCoverInternal(org.geometerplus.zlibrary.core.filesystem.ZLFile,org.geometerplus.zlibrary.core.image.ZLImage[])
+org.geometerplus.fbreader.formats.PluginCollection
+org.geometerplus.fbreader.formats.PluginCollection: org.geometerplus.fbreader.formats.NativeFormatPlugin[] nativePlugins()
+org.geometerplus.fbreader.formats.PluginCollection: void free()
+org.geometerplus.fbreader.formats.oeb.OEBMetaInfoReader$ReadState: org.geometerplus.fbreader.formats.oeb.OEBMetaInfoReader$ReadState[] values()
+org.geometerplus.fbreader.formats.oeb.OEBMetaInfoReader$ReadState: org.geometerplus.fbreader.formats.oeb.OEBMetaInfoReader$ReadState valueOf(java.lang.String)
+org.geometerplus.fbreader.library.AbstractLibrary$ChangeListener$Code: org.geometerplus.fbreader.library.AbstractLibrary$ChangeListener$Code[] values()
+org.geometerplus.fbreader.library.AbstractLibrary$ChangeListener$Code: org.geometerplus.fbreader.library.AbstractLibrary$ChangeListener$Code valueOf(java.lang.String)
+org.geometerplus.fbreader.network.INetworkLink$AccountStatus: org.geometerplus.fbreader.network.INetworkLink$AccountStatus[] values()
+org.geometerplus.fbreader.network.INetworkLink$AccountStatus: org.geometerplus.fbreader.network.INetworkLink$AccountStatus valueOf(java.lang.String)
+org.geometerplus.fbreader.network.INetworkLink$Type: org.geometerplus.fbreader.network.INetworkLink$Type[] values()
+org.geometerplus.fbreader.network.INetworkLink$Type: org.geometerplus.fbreader.network.INetworkLink$Type valueOf(java.lang.String)
+org.geometerplus.fbreader.network.NetworkBookItem$Status: org.geometerplus.fbreader.network.NetworkBookItem$Status[] values()
+org.geometerplus.fbreader.network.NetworkBookItem$Status: org.geometerplus.fbreader.network.NetworkBookItem$Status valueOf(java.lang.String)
+org.geometerplus.fbreader.network.NetworkCatalogItem$Accessibility: org.geometerplus.fbreader.network.NetworkCatalogItem$Accessibility[] values()
+org.geometerplus.fbreader.network.NetworkCatalogItem$Accessibility: org.geometerplus.fbreader.network.NetworkCatalogItem$Accessibility valueOf(java.lang.String)
+org.geometerplus.fbreader.network.NetworkLibrary$ChangeListener$Code: org.geometerplus.fbreader.network.NetworkLibrary$ChangeListener$Code[] values()
+org.geometerplus.fbreader.network.NetworkLibrary$ChangeListener$Code: org.geometerplus.fbreader.network.NetworkLibrary$ChangeListener$Code valueOf(java.lang.String)
+org.geometerplus.fbreader.network.atom.FormattedBuffer$Type: org.geometerplus.fbreader.network.atom.FormattedBuffer$Type[] values()
+org.geometerplus.fbreader.network.atom.FormattedBuffer$Type: org.geometerplus.fbreader.network.atom.FormattedBuffer$Type valueOf(java.lang.String)
+org.geometerplus.fbreader.network.opds.OPDSLinkReader$CacheMode: org.geometerplus.fbreader.network.opds.OPDSLinkReader$CacheMode[] values()
+org.geometerplus.fbreader.network.opds.OPDSLinkReader$CacheMode: org.geometerplus.fbreader.network.opds.OPDSLinkReader$CacheMode valueOf(java.lang.String)
+org.geometerplus.fbreader.network.tree.NetworkItemsLoader$InterruptionState: org.geometerplus.fbreader.network.tree.NetworkItemsLoader$InterruptionState[] values()
+org.geometerplus.fbreader.network.tree.NetworkItemsLoader$InterruptionState: org.geometerplus.fbreader.network.tree.NetworkItemsLoader$InterruptionState valueOf(java.lang.String)
+org.geometerplus.fbreader.network.urlInfo.UrlInfo$Type: org.geometerplus.fbreader.network.urlInfo.UrlInfo$Type[] values()
+org.geometerplus.fbreader.network.urlInfo.UrlInfo$Type: org.geometerplus.fbreader.network.urlInfo.UrlInfo$Type valueOf(java.lang.String)
+org.geometerplus.fbreader.tips.TipsManager$Action: org.geometerplus.fbreader.tips.TipsManager$Action[] values()
+org.geometerplus.fbreader.tips.TipsManager$Action: org.geometerplus.fbreader.tips.TipsManager$Action valueOf(java.lang.String)
+org.geometerplus.fbreader.tree.FBTree$Status: org.geometerplus.fbreader.tree.FBTree$Status[] values()
+org.geometerplus.fbreader.tree.FBTree$Status: org.geometerplus.fbreader.tree.FBTree$Status valueOf(java.lang.String)
+org.geometerplus.zlibrary.core.util.ZLBoolean3: org.geometerplus.zlibrary.core.util.ZLBoolean3[] values()
+org.geometerplus.zlibrary.core.util.ZLBoolean3: org.geometerplus.zlibrary.core.util.ZLBoolean3 valueOf(java.lang.String)
+org.geometerplus.zlibrary.core.view.ZLPaintContext$ScalingType: org.geometerplus.zlibrary.core.view.ZLPaintContext$ScalingType[] values()
+org.geometerplus.zlibrary.core.view.ZLPaintContext$ScalingType: org.geometerplus.zlibrary.core.view.ZLPaintContext$ScalingType valueOf(java.lang.String)
+org.geometerplus.zlibrary.core.view.ZLPaintContext$WallpaperMode: org.geometerplus.zlibrary.core.view.ZLPaintContext$WallpaperMode[] values()
+org.geometerplus.zlibrary.core.view.ZLPaintContext$WallpaperMode: org.geometerplus.zlibrary.core.view.ZLPaintContext$WallpaperMode valueOf(java.lang.String)
+org.geometerplus.zlibrary.core.view.ZLView$Animation: org.geometerplus.zlibrary.core.view.ZLView$Animation[] values()
+org.geometerplus.zlibrary.core.view.ZLView$Animation: org.geometerplus.zlibrary.core.view.ZLView$Animation valueOf(java.lang.String)
+org.geometerplus.zlibrary.core.view.ZLView$Direction: org.geometerplus.zlibrary.core.view.ZLView$Direction[] values()
+org.geometerplus.zlibrary.core.view.ZLView$Direction: org.geometerplus.zlibrary.core.view.ZLView$Direction valueOf(java.lang.String)
+org.geometerplus.zlibrary.core.view.ZLView$PageIndex: org.geometerplus.zlibrary.core.view.ZLView$PageIndex[] values()
+org.geometerplus.zlibrary.core.view.ZLView$PageIndex: org.geometerplus.zlibrary.core.view.ZLView$PageIndex valueOf(java.lang.String)
+org.geometerplus.zlibrary.text.view.ZLTextSelectionCursor: org.geometerplus.zlibrary.text.view.ZLTextSelectionCursor[] values()
+org.geometerplus.zlibrary.text.view.ZLTextSelectionCursor: org.geometerplus.zlibrary.text.view.ZLTextSelectionCursor valueOf(java.lang.String)
+org.geometerplus.zlibrary.ui.android.error.BugReportActivity
+org.geometerplus.zlibrary.ui.android.library.ZLAndroidActivity
+org.geometerplus.zlibrary.ui.android.library.ZLAndroidApplication
+org.geometerplus.zlibrary.ui.android.view.AnimationProvider$Mode: org.geometerplus.zlibrary.ui.android.view.AnimationProvider$Mode[] values()
+org.geometerplus.zlibrary.ui.android.view.AnimationProvider$Mode: org.geometerplus.zlibrary.ui.android.view.AnimationProvider$Mode valueOf(java.lang.String)
+org.geometerplus.zlibrary.ui.android.view.ZLAndroidWidget
+org.geometerplus.zlibrary.ui.android.view.ZLAndroidWidget: ZLAndroidWidget(android.content.Context,android.util.AttributeSet,int)
+org.geometerplus.zlibrary.ui.android.view.ZLAndroidWidget: ZLAndroidWidget(android.content.Context,android.util.AttributeSet)
+org.vimgadgets.linebreak.LineBreaker
+org.vimgadgets.linebreak.LineBreaker: void init()
+org.vimgadgets.linebreak.LineBreaker: void setLineBreaksForCharArray(char[],int,int,java.lang.String,byte[])
+org.vimgadgets.linebreak.LineBreaker: void setLineBreaksForString(java.lang.String,java.lang.String,byte[])
